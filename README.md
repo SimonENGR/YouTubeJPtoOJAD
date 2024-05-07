@@ -1,4 +1,9 @@
 # YouTubeJPtoOJAD
+7-May-2024 Update
+
+2.0 Version is out, few QoL improvements
+
+
 To get the program to work, Line 4: paste the identifier in the URL of the YouTube video (Example for https://www.youtube.com/watch?v=XuxtdiDXcZE, use 'XuxtdiDXcZE') .
 The language should be kept as "languages=['ja']" (Line 4)
 
